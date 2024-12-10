@@ -1,0 +1,28 @@
+.sq1
+{
+  width:300px;
+  height:200px;
+  background-color:#B6B7B3;
+  padding:50px 50px 70px 50px;
+  box-sizing:border-box;
+  position:absolute;
+}
+
+.b1
+{
+  width:180px;
+  height:40px;
+  border-radius:20px;
+  font-weight:800;
+  font-size:15px;
+  padding:15px
+  position:relative;
+}
+
+.im
+{
+  position:relative;
+  margin-left:67px;
+  width:25px;
+  height:25px;
+}
