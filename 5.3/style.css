@@ -1,3 +1,12 @@
+
+body
+{
+  background-color:black;
+}
+
+
+
+
 .bd {
   width: 50vw;
   height: 50vh;
@@ -11,6 +20,7 @@
   padding:48px 50px 70px 20px;
   box-sizing:border-box;
   position:absolute;
+  margin:250px auto auto 600px;
 }
 
 

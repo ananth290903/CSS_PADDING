@@ -1,3 +1,10 @@
+
+body
+{
+  background-color:black;
+}
+
+
 .sq1
 {
   width:300px;
@@ -6,6 +13,7 @@
   padding:50px 50px 70px 50px;
   box-sizing:border-box;
   position:absolute;
+  margin:250px auto auto 550px;
 }
 
 .b1
